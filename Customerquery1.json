@@ -1,0 +1,14 @@
+[
+	{
+		"CustomerSegment" : "Other",
+		"TotalRevenue" : 1805.54,
+		"AvgInvoice" : 5.62,
+		"TotalCustomers" : 46
+	},
+	{
+		"CustomerSegment" : "USA",
+		"TotalRevenue" : 523.06,
+		"AvgInvoice" : 5.75,
+		"TotalCustomers" : 13
+	}
+]

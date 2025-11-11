@@ -1,0 +1,122 @@
+[
+	{
+		"Country" : "USA",
+		"AvgInvoice" : 5.75,
+		"TotalRevenue" : 523.06
+	},
+	{
+		"Country" : "Canada",
+		"AvgInvoice" : 5.43,
+		"TotalRevenue" : 303.96
+	},
+	{
+		"Country" : "France",
+		"AvgInvoice" : 5.57,
+		"TotalRevenue" : 195.10
+	},
+	{
+		"Country" : "Brazil",
+		"AvgInvoice" : 5.43,
+		"TotalRevenue" : 190.10
+	},
+	{
+		"Country" : "Germany",
+		"AvgInvoice" : 5.59,
+		"TotalRevenue" : 156.48
+	},
+	{
+		"Country" : "United Kingdom",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 112.86
+	},
+	{
+		"Country" : "Czech Republic",
+		"AvgInvoice" : 6.45,
+		"TotalRevenue" : 90.24
+	},
+	{
+		"Country" : "Portugal",
+		"AvgInvoice" : 5.52,
+		"TotalRevenue" : 77.24
+	},
+	{
+		"Country" : "India",
+		"AvgInvoice" : 5.79,
+		"TotalRevenue" : 75.26
+	},
+	{
+		"Country" : "Chile",
+		"AvgInvoice" : 6.66,
+		"TotalRevenue" : 46.62
+	},
+	{
+		"Country" : "Ireland",
+		"AvgInvoice" : 6.52,
+		"TotalRevenue" : 45.62
+	},
+	{
+		"Country" : "Hungary",
+		"AvgInvoice" : 6.52,
+		"TotalRevenue" : 45.62
+	},
+	{
+		"Country" : "Austria",
+		"AvgInvoice" : 6.09,
+		"TotalRevenue" : 42.62
+	},
+	{
+		"Country" : "Finland",
+		"AvgInvoice" : 5.95,
+		"TotalRevenue" : 41.62
+	},
+	{
+		"Country" : "Netherlands",
+		"AvgInvoice" : 5.80,
+		"TotalRevenue" : 40.62
+	},
+	{
+		"Country" : "Norway",
+		"AvgInvoice" : 5.66,
+		"TotalRevenue" : 39.62
+	},
+	{
+		"Country" : "Sweden",
+		"AvgInvoice" : 5.52,
+		"TotalRevenue" : 38.62
+	},
+	{
+		"Country" : "Denmark",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Belgium",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Italy",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Poland",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Spain",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Australia",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	},
+	{
+		"Country" : "Argentina",
+		"AvgInvoice" : 5.37,
+		"TotalRevenue" : 37.62
+	}
+]

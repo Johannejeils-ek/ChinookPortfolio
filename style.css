@@ -1,0 +1,189 @@
+/* Alt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: "Zalando Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.all-headings {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+/* Body */
+body {
+    line-height: 1.6;
+    font-family: "Spectral", serif;
+    font-weight: 300;
+    font-style: normal;
+    position: relative;
+    background-color: #F7F2EB;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #081F5C;
+    color: #F7F2EB;
+}
+
+.logo {
+    /*------ Font ------*/
+    font-size: 2rem;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 3rem;
+    color: red;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 6rem;
+    padding: 3rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #F2F2F0;
+    color: #081F5C;
+    border-radius: 10px;
+}
+
+/* main */
+main {
+    background-color: #F7F2EB;
+}
+
+/* Section Case */
+#Case {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+    margin: 4rem auto;
+    border-radius: 2rem;
+    gap: 2rem;
+    color: #F2F2F0;
+    background-color: #081F5C;
+    max-width: 80rem;
+}
+
+.casetext p{
+    color: red;
+
+}
+
+.casetext {
+    font-size: 2rem;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 3rem;
+}
+
+.case-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.casetext, .case-description {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/* Allcountries Section */
+
+#barChartText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#barChartText p {
+    padding: 2rem;
+    margin: 2rem;
+    color: #F2F2F0;
+    background-color: #081F5C;
+    border-radius: 2rem;
+}
+
+/* Totalrevenue Section */
+#pieChartText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#pieChartText p {
+    padding: 2rem;
+    margin: 2rem;
+    color: #F2F2F0;
+    background-color: #081F5C;
+    border-radius: 2rem;
+}
+
+
+/* Avginvoice-totalrevenue Section */
+#barsLineChartText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#barsLineChartText p {
+    padding: 2rem;
+    margin: 2rem;
+    color: #F2F2F0;
+    background-color: #081F5C;
+    border-radius: 2rem;
+}
+
+/* Between Section */
+.betweenSection {
+    font-size: 2rem;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #081F5C;
+    display: flex;
+    justify-content: center;
+
+}
+
+/* footer */
+footer {
+    outline: #F7F2EB solid 10px;
+    background-color: #081F5C;
+    color: #F7F2EB;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}

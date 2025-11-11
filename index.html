@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chinook</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zalando+Sans+Expanded:ital,wght@0,200..900;1,200..900&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap"
+          rel="stylesheet">
+
+
+    <link rel="stylesheet" href="style.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header class="site-header">
+    <div class="logo">Chinook</div>
+    <nav>
+        <ul>
+            <li><a href="#Case">Case</a></li>
+            <li><a href="#Allcountries">All countries </a></li>
+            <li><a href="#Totalrevenue">USA vs Other countries</a></li>
+            <li><a href="#Avginvoice-totalrevenue">Average Invoices</a></li>
+            <li>• • •</li>
+        </ul>
+    </nav>
+
+</header>
+<main>
+    <section id="Case">
+        <div class="casetext">
+            <p>Case</p>
+        </div>
+        <div class="case-description">
+            <p>Vi har valgt at undersøge, om det giver mening for Chinooks at fokusere markedsføringen på amerikanske
+                kunder.</p>
+        </div>
+    </section>
+
+    <section id="Allcountries">
+        <div class="betweenSection">• • • • • • • • • • • • • • • • • • • •</div>
+        <div id="barChartText">
+            <canvas id="barChart" width="1000" height="600"></canvas>
+            <p>!!!!!Vi analyserer hvordan Chinooks omsætning fordeler sig mellem USA og andre lande!!!1</p>
+        </div>
+        <div class="betweenSection">• • • • • • • • • • • • • • • • • • • •</div>
+    </section>
+
+    <section id="Totalrevenue">
+        <div id="pieChartText">
+            <canvas id="pieChart" width="600" height="600"></canvas>
+            <p>Vi analyserer hvordan Chinooks omsætning fordeler sig mellem USA og andre lande</p>
+        </div>
+        <div class="betweenSection">• • • • • • • • • • • • • • • • • • • •</div>
+    </section>
+
+    <section id="Avginvoice-totalrevenue">
+        <div id="barsLineChartText">
+            <canvas id="linebarChart" width="1200" height="600"></canvas>
+            <p>Grafen viser, den gennemsnitlige købsstørrelse pr. kunde samt total omsætning pr. enkelt land</p>
+            <br>
+        </div>
+    </section>
+
+</main>
+
+
+<footer>
+    <p>© 2025 Mathilde Pedersen, Johanne Schledermann Jeilsø og Oliver Baasch</p>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
