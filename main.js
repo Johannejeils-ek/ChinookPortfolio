@@ -135,7 +135,7 @@ fetch('Customerquery2.json')
                         position: 'right',
                         title: {
                             display: true,
-                            text: 'Total Revenue'
+                            text: 'Total Revenue($)'
                         },
                         grid: {
                             drawOnChartArea: false, // only want the grid lines for one axis to show up
