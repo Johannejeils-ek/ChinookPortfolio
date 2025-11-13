@@ -117,7 +117,7 @@ fetch('Customerquery2.json')
                 plugins: {
                     title: {
                         display: true,
-                        text: 'All coutries in the Dataset',
+                        text: 'All countries in the Dataset',
                         font: {size: 16},
                     }
                 },
